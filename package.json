@@ -1,0 +1,16 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generatePassword.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
